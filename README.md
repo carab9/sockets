@@ -6,7 +6,7 @@ This project includes a client program and a server program.  The server starts 
 
 My code has an architecture with 3 layers: a UI layer that contains components required to enable user interaction with the application; a Business Layer that processes the input data; and a Data Layer that controls access logic components to access the data.
 
-![image](https://github.com/carab9/sockets/blob/main/architecture.png?raw=true)
+![image](https://github.com/carab9/sockets/blob/main/architecture.png)
 
 The UI layer consists of the UI and Graph classes. The Graph Class creates and displays  the pie graphs. The UI class creates the interface that the user interacts with: the main window in the client program.
 
@@ -14,7 +14,7 @@ The Business layer consists of the FileIO and Database classes. The FileIO class
 
 The Data layer consists of the SqliteDB class, which provides the SQL APIs to create, store and access the SQLite database 
 
-![image](https://github.com/carab9/sockets/blob/main/client_server.png?raw=true)
+![image](https://github.com/carab9/sockets/blob/main/client_server.png)
 
 The UI layer is in the client program and the Business layer and the Data layer are in the server program. The client and the server communicate through sockets.
 
