@@ -36,6 +36,6 @@ Socket and json for interprocess communication and data transmission, bs4.Beauti
 
 This chart shows the linear regression between climate data levels and year, displayed alongside a scatter plot for the country Australia.
 
-![image](https://github.com/carab9/sockets/blob/main/linreg_graph.png?raw=true)
+![image](https://github.com/carab9/sockets/blob/main/linreg_graph.png)
 
-![image](https://github.com/carab9/sockets/blob/main/linreg_graph_menu.png?raw=true)
+![image](https://github.com/carab9/sockets/blob/main/linreg_graph_menu.png)
