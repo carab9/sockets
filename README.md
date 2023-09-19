@@ -21,7 +21,7 @@ The UI layer is in the client program and the Business layer and the Data layer 
 ## Requirements
 
 Client:
-Python, and Python Libraries: pandas, socket, json, pandas, matplotlib.figure, matplotlib.backends.backend_tkagg, tkinter
+Python and Python Libraries: pandas, socket, json, pandas, matplotlib.figure, matplotlib.backends.backend_tkagg, tkinter
 Run the program: python Client.py
 
 Server:
