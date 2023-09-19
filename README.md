@@ -38,4 +38,5 @@ This chart shows the linear regression between climate data levels and year, dis
 
 ![image](https://github.com/carab9/sockets/blob/main/linreg_graph.png)
 
+
 ![image](https://github.com/carab9/sockets/blob/main/linreg_graph_menu.png)
