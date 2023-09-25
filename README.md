@@ -30,7 +30,7 @@ Run the program: python main.py
 
 ## Technical Skills
 
-Socket and json for interprocess communication and data transmission, bs4.BeautifulSoup for web scraping, pandas dataframe for data processing, SQLite for database, matplotlib Figure and FigureCanvasTkAgg for plotting graphs. Tkinter for GUIs.
+Socket and json for interprocess communication and data transmission, bs4.BeautifulSoup for processing web XML file, pandas dataframe for data processing, SQLite for database, matplotlib Figure and FigureCanvasTkAgg for plotting graphs, Tkinter for GUIs, and linear regression for data analysis.
 
 ## Results
 
